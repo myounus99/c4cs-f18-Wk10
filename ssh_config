@@ -1,0 +1,7 @@
+#UM Github
+Host github
+     HostName gitHub.com
+     User myounus99
+     IdentityFile ~/.ssh/myounus_rsa
+
+
